@@ -2,6 +2,10 @@
 
 A simple pipeline that enables the recovery of your Google Photos favorites collection in Ente, without duplicating any photos.
 
+https://github.com/user-attachments/assets/3bcbd57a-ea35-41fb-8040-5ba843160e53
+
+> Demo of the script in action
+
 ## Background
 
 After migrating from Google Photos to Ente and despite the [seamless migration process](https://ente.com/help/photos/migration/from-google-photos/), I experienced the frustration of loosing my favorite photos curation. 
